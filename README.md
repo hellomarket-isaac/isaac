@@ -27,7 +27,7 @@
 
 ### 🔭 I’m currently working on
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomarket-isaac&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/hellomarket-isaac/github-readme-stats)
+[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomarket-isaac&hide=stars,contribs&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true)](https://github.com/hellomarket-isaac/github-readme-stats)
 
 ### :muscle: I’m currently Top Languages
 
